@@ -36,6 +36,7 @@ I'm a passionate self-taught web developer, writer and startup enthusiast.
 - 🤔 I’m looking for help with landing my first dev role
 - 📫 How to reach me: fawazsullia@gmail.com
 - 😄 Pronouns: he/his
+- Contributing to Opensource at [WeFOSS](https://github.com/WE-FOSS)
 
 ***
 

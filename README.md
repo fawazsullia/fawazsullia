@@ -1,4 +1,4 @@
-## Hey! Fawaz here [![alt text][1.1]][1] [![alt text][6.1]][6]
+## Hey! Fawaz here [![alt text][1.1]][1]
 
 I'm a passionate self-taught web developer, writer and startup enthusiast. 
 
@@ -18,7 +18,6 @@ I'm a passionate self-taught web developer, writer and startup enthusiast.
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 
 
@@ -27,7 +26,7 @@ I'm a passionate self-taught web developer, writer and startup enthusiast.
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/realfawazsullia
-[6]: http://www.github.com/fawazsullia
+
 
 
 - 🔭 I’m currently working on [theideaproject](https://github.com/fawazsullia/the-idea-project)

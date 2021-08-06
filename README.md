@@ -29,9 +29,8 @@ I'm a passionate self-taught web developer, writer and startup enthusiast.
 
 
 
-- 🔭 I’m currently working on [theideaproject](https://github.com/fawazsullia/the-idea-project)
+- 🔭 I’m currently working on Snack Box
 - 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on [theideaproject](https://github.com/fawazsullia/the-idea-project)
 - 🤔 I’m looking for help with landing my first dev role
 - 📫 How to reach me: fawazsullia@gmail.com
 - 😄 Pronouns: he/his

@@ -29,7 +29,7 @@ I'm a passionate self-taught web developer, writer and startup enthusiast.
 
 
 
-- 🔭 I’m currently working on Snack Box
+- 🔭 I’m currently working on Vahem
 - 🌱 I’m currently learning Typescript
 - 🤔 I’m looking for help with landing my first dev role
 - 📫 How to reach me: fawazsullia@gmail.com

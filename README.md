@@ -29,7 +29,7 @@ I'm a passionate self-taught junior web developer with a passion for everything 
 
 
 
-- 🔭 I’m currently working on Open CMS (random name) : a CMS for simple sites
+- 🔭 I’m currently working on Gluup : a headless CMS for simple sites
 - 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with landing my first dev role
 - 📫 How to reach me: fawazsullia@gmail.com

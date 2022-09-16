@@ -29,9 +29,9 @@ I'm a passionate self-taught junior web developer with a passion for everything 
 
 
 
-- 🔭 I’m currently working on Gluup : a headless CMS for simple sites
-- 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with landing my first dev role
+- 🔭 I’m currently working on a linkhub alternative with more features
+- 🌱 I’m currently learning Go
+- 🤔 I’m looking for colloaboration opportunities or freelance projects
 - 📫 How to reach me: fawazsullia@gmail.com
 
 ***
@@ -45,7 +45,6 @@ Current Tech Stack
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ***
